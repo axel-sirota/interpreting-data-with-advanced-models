@@ -1,0 +1,14 @@
+For Mac Users:
+
+1. Install Xcode: xcode-select --install
+2. Install Home-brew: ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+3. Set PATH: export PATH="/usr/local/opt/python/libexec/bin:$PATH"
+4. Install python: brew install python
+
+For Windows Users:
+
+1. Go to https://www.python.org/downloads/windows/ and download the latest.
+2. Follow thought instructions.
+
+
+Now you are ready for using Python!
